@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CubeToTableAdapte.cs](./CS/WindowsApplication10/CubeToTableAdapte.cs) (VB: [CubeToTableAdapte.vb](./VB/WindowsApplication10/CubeToTableAdapte.vb))
+* [Form1.cs](./CS/WindowsApplication10/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication10/Form1.vb))
+* [Program.cs](./CS/WindowsApplication10/Program.cs) (VB: [Program.vb](./VB/WindowsApplication10/Program.vb))
+* [QueryStringBuilder.cs](./CS/WindowsApplication10/QueryStringBuilder.cs) (VB: [QueryStringBuilder.vb](./VB/WindowsApplication10/QueryStringBuilder.vb))
+<!-- default file list end -->
 # How to generate an MDX query automatically according to the current pivot grid layout
 
 
